@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li h1 {
+    /* Agrega aquí los estilos que desees para los elementos h1 dentro de los li */
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+    color: #333;
+    /* Agrega más estilos según tus necesidades */
+}
