@@ -1,5 +1,5 @@
-import Links from './Links/links'
-import TextoD from './textoDinamico/textoD'
+import Links from './headerCabeza/Links/links'
+import TextoD from './headerCabeza/textoDinamico/textoD'
 import './headerCabeza.css'
 const HeaderCabeza = () => {
 
