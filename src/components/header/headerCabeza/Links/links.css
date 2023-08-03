@@ -1,0 +1,25 @@
+.lista{
+
+    display: flex;
+  
+
+}
+.li{
+
+margin-right: 40px;
+font-size: 100%;
+color: #fffffff7;
+text-decoration: none;
+
+}
+.li a {
+   
+    color: #fffffff7;
+    text-decoration: none;
+}
+@media (max-width: 768px) {
+    .lista {
+        display: none;
+       
+    }
+}

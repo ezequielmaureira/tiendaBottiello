@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 const TextoDinamico = () => {
 
 const messages = [
-    'Compra en cuotas online sin interés con visa, mastercard.',
-    'Envío Gratis compras superiores a 10.000.',
-    'Hasta 3 cuotas sin interés en toda la tienda.',
+    'Compra en cuotas online sin interés con visa, mastercard',
+    'Envío Gratis compras superiores a $ 10.000',
+    'Hasta 3 cuotas sin interés en toda la tienda',
   ];
 
   const [currentMessageIndex, setCurrentMessageIndex] = useState(0);
@@ -59,13 +59,13 @@ const messages = [
   }, [currentMessageIndex]);
 
   return (
-              
+      <div className="links">       
         <ul className="nav-links">
           <li>
             <h1>{currentMessage}</h1>
           </li>
         </ul>
-      
+      </div> 
    
   );
 };

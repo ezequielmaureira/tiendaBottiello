@@ -1,0 +1,10 @@
+.headerCabeza {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(3, 3, 3);
+
+    /* Puedes cambiar el color de fondo según tus necesidades */
+}
+
+
