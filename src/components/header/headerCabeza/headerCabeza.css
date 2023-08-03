@@ -1,10 +1,14 @@
 .headerCabeza {
     display: flex;
-    align-items: center;
+    align-items: normal;
     justify-content: space-between;
     background-color: rgb(3, 3, 3);
-
+    height: 30px;
     /* Puedes cambiar el color de fondo según tus necesidades */
 }
-
+.container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    width: 100% !important;
+}
 

@@ -7,7 +7,7 @@ const HeaderCabeza = () => {
 
     return (
     
-       <div className='headerCabeza'>
+       <div className=' container-fluid headerCabeza'>
 
     
       <Links/>

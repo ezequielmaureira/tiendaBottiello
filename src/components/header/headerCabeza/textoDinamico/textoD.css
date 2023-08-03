@@ -4,10 +4,10 @@ ul {
 }
 li h1 {
     /* Agrega aquí los estilos que desees para los elementos h1 dentro de los li */
- 
-    font-size: 20px;
+    margin-right: 10px;
+    font-size: 18px;
     color: #ffffff;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:sans-serif;
     /* Agrega más estilos según tus necesidades */
 }
 
